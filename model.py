@@ -29,8 +29,8 @@ f.close()
 
 print(type(environment), len(environment))
 
-# Create the map environment (mapenvironment) in order to map density of each point of the map
-# When an agent passes through a point on the map, needs to be calculated, and saved
+# Create the map environment (mapenvironment) in order to map the densities
+# When an agent passes in the map, its mapped and recorded
 
 mapenvironment = []
     
